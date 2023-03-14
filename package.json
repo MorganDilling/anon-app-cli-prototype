@@ -1,7 +1,7 @@
 {
-  "name": "ts-node-project-template",
+  "name": "anon-app-cli-prototype",
   "version": "1.0.0",
-  "description": "Template for TypeScript projects",
+  "description": "Terminal based AnonApp chat application",
   "main": "src/index.ts",
   "scripts": {
     "dev": "ts-node-dev --files -r tsconfig-paths/register --exit-child src/index.ts",

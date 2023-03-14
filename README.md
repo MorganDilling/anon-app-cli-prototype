@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>📁 Project template</h1>
-  <p>Template for TypeScript projects</p>
+  <h1>💬 AnonApp CLI Prototype</h1>
+  <p>Terminal based AnonApp chat application</p>
 
 <a href="/LICENSE">
   <img alt="GitHub" src="https://img.shields.io/github/license/morgandilling/ts-node-project-template?style=for-the-badge">
